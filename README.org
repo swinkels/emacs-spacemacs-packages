@@ -1,0 +1,10 @@
+This repo holds the Emacs packages for my Spacemacs installations.
+
+Each branch holds the contents of the ~.emacs/elpa~ directory of the latest
+state of an Spacemacs installation on a workstation or container, both of which
+are considered unique. The goal is to be able to reproduce that latest state of
+the Spacemacs installation. One might be able to reproduce an earlier state of
+an installation but that's not the use case.
+
+All branches except =main= are named after the workstation or container. The
+main branch does not hold Emacs packages.

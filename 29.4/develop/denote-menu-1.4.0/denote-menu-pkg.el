@@ -1,0 +1,2 @@
+;; Generated package description from denote-menu.el  -*- mode: lisp-data; no-byte-compile: t -*-
+(define-package "denote-menu" "1.4.0" "View denote files in a tabulated list." '((emacs "28.1") (denote "3.0.0")) :commit "247a9b66d67b3fe409eda8f896feae87546f5b4d" :authors '(("Mohamed Suliman" . "sulimanm@tcd.ie")) :maintainer '("Mohamed Suliman" . "sulimanm@tcd.ie") :url "https://github.com/namilus/denote-menu")

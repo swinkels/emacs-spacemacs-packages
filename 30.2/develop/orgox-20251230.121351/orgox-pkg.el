@@ -1,0 +1,2 @@
+;;; Generated package description from orgox.el  -*- no-byte-compile: t -*-
+(define-package "orgox" "20251230.121351" "Convert org-mode file to one suited for ox-hugo" '((emacs "26.3") (f "0.20.0") (ox-hugo "0.12.2")) :authors '(("Pieter Swinkels" . "swinkels.pieter@yahoo.com")) :maintainer '("Pieter Swinkels" . "swinkels.pieter@yahoo.com") :keywords '("tools" "ox-hugo") :url "https://github.com/swinkels/orgox")

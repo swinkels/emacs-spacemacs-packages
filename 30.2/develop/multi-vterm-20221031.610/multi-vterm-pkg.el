@@ -7,4 +7,6 @@
   :url "https://github.com/suonlight/multi-libvterm"
   :commit "36746d85870dac5aaee6b9af4aa1c3c0ef21a905"
   :revdesc "36746d85870d"
-  :keywords '("terminals" "processes"))
+  :keywords '("terminals" "processes")
+  :authors '(("Minh Nguyen-Hue" . "minh.nh1989@gmail.com"))
+  :maintainers '(("Minh Nguyen-Hue" . "minh.nh1989@gmail.com")))

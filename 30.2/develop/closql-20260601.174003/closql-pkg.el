@@ -1,0 +1,2 @@
+;;; Generated package description from closql.el  -*- no-byte-compile: t -*-
+(define-package "closql" "20260601.174003" "Store EIEIO objects using EmacSQL" '((emacs "28.1") (compat "31.0") (cond-let "1.1") (emacsql "4.4") (llama "1.0")) :authors '(("Jonas Bernoulli" . "emacs.closql@jonas.bernoulli.dev")) :maintainer '("Jonas Bernoulli" . "emacs.closql@jonas.bernoulli.dev") :keywords '("extensions") :url "https://github.com/emacscollective/closql")

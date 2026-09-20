@@ -1,0 +1,11 @@
+;; -*- no-byte-compile: t; lexical-binding: nil -*-
+(define-package "auto-highlight-symbol" "20260101.552"
+  "Automatic highlighting current symbol minor mode."
+  '((emacs "26.1")
+    (ht    "2.3"))
+  :url "https://github.com/elp-revive/auto-highlight-symbol"
+  :commit "e84da32e7cf1baefb0a9eef42a2fc842cf18f8b3"
+  :revdesc "e84da32e7cf1"
+  :keywords '("highlight" "face" "match" "convenience")
+  :authors '(("Mitsuo Saito" . "arch320@NOSPAM.gmail.com"))
+  :maintainers '(("Jen-Chieh" . "jcs090218@gmail.com")))

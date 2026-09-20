@@ -3,7 +3,7 @@
   "Evil align operator, port of vim-lion."
   '((emacs "24.3")
     (evil  "1.0.0"))
-  :url "http://github.com/edkolev/evil-lion"
+  :url "https://github.com/edkolev/evil-lion"
   :commit "5a0bca151466960e090d1803c4c5ded88875f90a"
   :revdesc "5a0bca151466"
   :keywords '("emulations" "evil" "vim")
